@@ -51,7 +51,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 1.5rem;
-  padding: 1.5rem;
+  padding: clamp(1.5rem, 0.62rem + 3.756vw, 2.5rem);
   border-radius: 12px;
   line-height: 1.5;
 }
@@ -68,11 +68,13 @@ body {
 }
 
 .social-card__name {
+  text-align: center;
   font-size: 1.5rem;
   font-weight: 600;
 }
 
 .social-card__location {
+  text-align: center;
   font-size: 0.875rem;
   font-weight: 700;
   color: var(--text-secondary-color);
