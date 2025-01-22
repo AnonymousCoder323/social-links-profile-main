@@ -25,7 +25,7 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-links-card-x8XE2xMXpl)
 - [Live Site URL](https://anonymouscoder323.github.io/social-links-profile-main/)
 
 ## My process
